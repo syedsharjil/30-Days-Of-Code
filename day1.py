@@ -10,6 +10,9 @@ s1=input()
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
 # The variables i,d,s are given as inputs from the Hackerrank code editor.
+i=int(input())
+d=float(input())
+s=input()
 print(i1+i)
 print(d+d1)
 print(s+s1)
